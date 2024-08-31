@@ -39,3 +39,8 @@ main,
 footer,
 section
 { display: flex; }
+
+header, footer {
+    background-color: var(--defaultBlue);
+    color:            var(--defaultWhite);
+}
